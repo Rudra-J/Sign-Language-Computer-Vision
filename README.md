@@ -53,8 +53,8 @@ Once the model was trained and validated, I used my webcam to see real time clas
 Contributions and suggestions are welcome! Feel free to open issues and submit pull requests to help improve this project.
 
 ## Examples
-<img src="https://drive.google.com/file/d/1lLTMVOr5dRnbWF6rHboZmTGNgQ5CaNvz/view?usp=sharing" >
-<img src="https://drive.google.com/file/d/10otDwZ6PCjhQDpHbhxZAgHDSI_e6TkQ3/view?usp=sharing" width="500" height="450">
-<img src="https://drive.google.com/file/d/19CkzLgAICu5ZvpMo5sNPY0dXTVBBRmEg/view?usp=sharing" >
+![Sign Language Gesture Recognition](https://drive.google.com/file/d/1lLTMVOr5dRnbWF6rHboZmTGNgQ5CaNvz/view?usp=sharing)
+![Sign Language Gesture Recognition](https://drive.google.com/file/d/10otDwZ6PCjhQDpHbhxZAgHDSI_e6TkQ3/view?usp=sharing)
+![Sign Language Gesture Recognition](https://drive.google.com/file/d/19CkzLgAICu5ZvpMo5sNPY0dXTVBBRmEg/view?usp=sharing)
 
 
