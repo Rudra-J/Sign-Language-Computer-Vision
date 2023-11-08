@@ -54,7 +54,5 @@ Contributions and suggestions are welcome! Feel free to open issues and submit p
 
 ## Examples
 ![Sign Language Gesture Recognition](https://drive.google.com/uc?export=view&id=1lLTMVOr5dRnbWF6rHboZmTGNgQ5CaNvz)
-![Sign Language Gesture Recognition](https://drive.google.com/uc?export=view&id=10otDwZ6PCjhQDpHbhxZAgHDSI_e6TkQ3)
-![Sign Language Gesture Recognition](https://drive.google.com/uc?export=view&id=19CkzLgAICu5ZvpMo5sNPY0dXTVBBRmEg)
 
 
