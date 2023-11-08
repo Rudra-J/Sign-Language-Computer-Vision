@@ -1,6 +1,6 @@
 # Sign Language Gesture Recognition using Deep Learning
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_TcVb-wxuRUPQ-qSZeZZ_NbP1Em_1RayP5XMifaKMBcKMFFApQvyxuFCImfHUH3LsUF0&usqp=CAU" width="530" height="450">
+<img src="https://1.bp.blogspot.com/-8SxmsK5VoJ0/XVrTpMrJDFI/AAAAAAAAEiM/nAa3vuj8a2sjgEPAeMKXD4m09yKUgjVIQCLcBGAs/s640/Screenshot%2B2019-08-19%2Bat%2B9.51.25%2BAM.png" width="1060" height="450">
 </p>
 
 ## Overview
